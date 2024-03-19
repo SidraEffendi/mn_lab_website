@@ -1,12 +1,12 @@
 ---
-name: Jane Smith
+name: Mustafa Naseem
 image: images/photo.jpg
 role: pi
 aliases:
-  - J. Smith
-  - J Smith
+  - M. Naseem
+  - M Naseem
 links:
-  home-page: https://janesmith.com
+  home-page: https://mustafanaseem.com
   orcid: 0000-0001-8713-9213
 ---
 
