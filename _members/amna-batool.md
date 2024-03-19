@@ -1,5 +1,5 @@
 ---
-name: John Doe
+name: Amna Batool
 image: images/photo.jpg
 role: phd
 group: alum
