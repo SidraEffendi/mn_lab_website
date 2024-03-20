@@ -36,9 +36,9 @@
     \ proposes a method that aligns clinician-expressed empathy—what clinicians believe they are conveying—with\
     \ patient-expected empathy,shaped by their cultural background. By examining the interplay\
     \ between how empathy is expressed by clinicians and expected by patients within their cultural context,\ 
-    \ our research aims to explore\: Does incorporating patient expectations into the measurement of\
+    \ our research aims to explore: Does incorporating patient expectations into the measurement of\
     \ clinician empathy in healthcare enhance its accuracy and ensure it more accurately reflects the nuanced \
-    \ dynamics of patient-clinician interactions across various cultural settings\?"
+    \ dynamics of patient-clinician interactions across various cultural settings?"
   repo: greenelab/lab-website-template
   tags:
     - resource
