@@ -1,6 +1,6 @@
 ---
 name: Mustafa Naseem
-image: images/photo.jpg
+image: images/mustafa-naseem.png
 role: pi
 aliases:
   - M. Naseem
