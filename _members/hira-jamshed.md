@@ -1,6 +1,6 @@
 ---
 name: Hira Jamshed
-image: images/photo.jpg
+image: images/hira-jamshed.png
 role: phd
 group: alum
 links:
