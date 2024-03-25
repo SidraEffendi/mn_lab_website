@@ -71,8 +71,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+  title: 'Moderation as Empowerment: Creating and Managing Women-Only Digital Safe Spaces'
   authors:
   - Ricardo Avila
   - Vincent Rubinetti
