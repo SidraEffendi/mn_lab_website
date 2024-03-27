@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our publications represent the culmination of rigorous scientific inquiry, innovative thinking, and collaborative effort aimed at addressing key challenges and advancing knowledge in Human-Computer Interaction (HCI).
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+At the heart of our research philosophy lies a passion for humanitarianism, a dedication to integrity, and a belief in the power of collaboration. We actively foster an inclusive and supportive environment that nurtures creativity, critical thinking, and scientific excellence.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Whether you’re a prospective collaborator, a student interested in joining our team, or simply curious about the individuals behind our research, we invite you to get to know the members of MN Research Lab and discover the passion, expertise, and dedication that drive our collective efforts forward.
 
 {%
   include button.html
