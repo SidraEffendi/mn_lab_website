@@ -2,7 +2,7 @@
 name: Hira Jamshed
 image: images/hira-jamshed.png
 role: phd
-group: alum
+group: prospective
 links:
   LinkedIn: https://www.linkedin.com/in/hirajamshed/
   github: john-doe
