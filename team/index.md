@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Whether you're a prospective collaborator, a student interested in joining our team, or simply curious about the individuals behind our research, we invite you to get to know the members of MN Research Lab and discover the passion, expertise, and dedication that drive our collective efforts forward.
 
 {% include section.html %}
 
