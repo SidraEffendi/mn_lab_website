@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our publications represent the culmination of rigorous scientific inquiry, innovative thinking, and collaborative effort aimed at addressing key challenges and advancing knowledge in Human Computer Interaction (HCI).
 
 {% include section.html %}
 
