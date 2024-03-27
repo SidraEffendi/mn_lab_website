@@ -1,10 +1,10 @@
 ---
 name: Md. Taha Zakir
-image: images/photo.jpg
+image: images/taha-zakir.jpeg
 role: programmer
 group: current
 links:
-  portfolio: https://tahazakir.notion.site/Hi-it-s-Taha-Zakir-2f2f5f5088f04d75804584248370d731?pvs=4
+  home-page: https://tahazakir.notion.site/Hi-it-s-Taha-Zakir-2f2f5f5088f04d75804584248370d731?pvs=4
   github: https://github.com/tahazakir
 ---
 
