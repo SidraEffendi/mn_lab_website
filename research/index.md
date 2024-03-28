@@ -13,7 +13,8 @@ Our publications represent the culmination of rigorous scientific inquiry, innov
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Designing Digital Safe Spaces for Peer Support and Connectivity in Patriarchal
+    Contexts" style="rich" %}
 
 {% include section.html %}
 
