@@ -1,10 +1,10 @@
 ---
 name: Hamza Farooqui
 image: images/photo.jpg
-role: programmer
+role: Researcher
 group: current
 links:
   github: https://github.com/tahazakir
 ---
 
-yada yada
+nmnmnm
