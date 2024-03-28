@@ -182,27 +182,11 @@
   - Casey S. Greene
   - Anthony Gitter
   publisher: PLOS Computational Biology
-  date: '2020-12-04'
+  date: '2019-06-24'
   link: https://doi.org/c7np
   orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/573782
   title: Sequential compression of gene expression across dimensionalities and methods
     reveals no single best method or dimensionality
@@ -218,30 +202,259 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.48550/arXiv.2301.11733
+  title: Women's Perspectives on Harm and Justice after Online Harassment
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Jane Im
+  - Sarita Schoenebeck
+  - Marilyn Iriarte
+  - Gabriel Grill
+  - Daricia Wilkinson
+  - Amna Batool
+  - Rahaf Alharbi
+  - Audrey Funwie
+  - Tergel Gankhuu
+  - Eric Gilbert
+  - Mustafa Naseem
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/gtn95n
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1145/3485447.3512267
+  title: Fostering Engagement of Underserved Communities with Credible Health Information
+    on Social Media
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Agha Ali Raza
+  - Mustafa Naseem
+  - Namoos Hayat Qasmi
+  - Shan Randhawa
+  - Fizzah Malik
+  - Behzad Taimur
+  - Sacha St-Onge Ahmad
+  - Sarojini Hirshleifer
+  - Arman Rezaee
+  - Aditya Vashistha
+  publisher: Proceedings of the ACM Web Conference 2022
+  date: '2022-04-25'
+  link: https://doi.org/gtn95p
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3555204
+  title: 'Moderation as Empowerment: Creating and Managing Women-Only Digital Safe
+    Spaces'
+  authors:
+  - Tawfiq Ammari
+  - Momina Nofal
+  - Mustafa Naseem
+  - Maryam Mustafa
+  publisher: Proceedings of the ACM on Human-Computer Interaction
+  date: '2022-11-07'
+  link: https://doi.org/gtn95q
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3530190.3534819
+  title: Understanding Power Differentials and Cultural Differences in Co-design with
+    Marginalized Populations
+  authors:
+  - Qinzhi Jiang
+  - Mustafa Naseem
+  - Jamie Lai
+  - Kentaro Toyama
+  - Panos Papalambros
+  publisher: ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS)
+  date: '2022-06-29'
+  link: https://doi.org/gtn95r
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3313831.3376683
+  title: An Empirical Comparison of Technologically Mediated Advertising in Under-connected
+    Populations
+  authors:
+  - Mustafa Naseem
+  - Bilal Saleem
+  - Sacha St-Onge Ahmad
+  - Jay Chen
+  - Agha Ali Raza
+  publisher: Proceedings of the 2020 CHI Conference on Human Factors in Computing
+    Systems
+  date: '2020-04-21'
+  link: https://doi.org/gtn95t
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3392561.3394647
+  title: An Exploration of African-American Pregnant Women's Information-Seeking Behavior
+    in Detroit
+  authors:
+  - Grace Burleson
+  - Mustafa Naseem
+  - Kentaro Toyama
+  publisher: Proceedings of the 2020 International Conference on Information and Communication
+    Technologies and Development
+  date: '2020-06-17'
+  link: https://doi.org/gtn95v
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3415217
+  title: Designing Digital Safe Spaces for Peer Support and Connectivity in Patriarchal
+    Contexts
+  authors:
+  - Mustafa Naseem
+  - Fouzia Younas
+  - Maryam Mustafa
+  publisher: Proceedings of the ACM on Human-Computer Interaction
+  date: '2020-10-14'
+  link: https://doi.org/gtn95w
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3392561.3397588
+  title: Does Gender and Accent of Voice Matter?
+  authors:
+  - Eman Mubarak
+  - Tooba Shahid
+  - Maryam Mustafa
+  - Mustafa Naseem
+  publisher: Proceedings of the 2020 International Conference on Information and Communication
+    Technologies and Development
+  date: '2020-06-17'
+  link: https://doi.org/gtn95x
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3392561.3394639
+  title: Patriarchy and Social Media
+  authors:
+  - Fouzia Younas
+  - Mustafa Naseem
+  - Maryam Mustafa
+  publisher: Proceedings of the 2020 International Conference on Information and Communication
+    Technologies and Development
+  date: '2020-06-17'
+  link: https://doi.org/gtn95z
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3372224.3418170
+  title: Design of an IoT-based water flow monitoring system
+  authors:
+  - Zill Ullah Khan
+  - M Umair Anwar
+  - Sabah Pirani
+  - Faisal Lalani
+  - Babatunde Adegoke
+  - Tauseef Tauqeer
+  - Mustafa Naseem
+  publisher: Proceedings of the 26th Annual International Conference on Mobile Computing
+    and Networking
+  date: '2020-09-18'
+  link: https://doi.org/grbnkn
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3287098.3287143
+  title: Money matters
+  authors:
+  - Amna Batool
+  - Naveed Ahmed
+  - Waseem Rasool
+  - Umar Saif
+  - Mustafa Naseem
+  publisher: Proceedings of the Tenth International Conference on Information and
+    Communication Technologies and Development
+  date: '2019-01-04'
+  link: https://doi.org/gtn952
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3197391.3205446
+  title: Using Experiential-Learning and Iterative Design to Benefit Colorado's Refugees
+  authors:
+  - Jennifer Lee
+  - Lexi Schwartz
+  - Emily Long
+  - Mustafa Naseem
+  publisher: Proceedings of the 2018 ACM Conference Companion Publication on Designing
+    Interactive Systems
+  date: '2018-05-30'
+  link: https://doi.org/gtn953
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3132525.3134809
+  title: Interactive Urdu Braille Learning System for Parents of Visually Impaired
+    Students
+  authors:
+  - Muhammad Zahid Iqbal
+  - Suleman Shahid
+  - Mustafa Naseem
+  publisher: Proceedings of the 19th International ACM SIGACCESS Conference on Computers
+    and Accessibility
+  date: '2017-10-19'
+  link: https://doi.org/gtn954
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/2909609.2909634
+  title: Child Immunization Health Card Redesign
+  authors:
+  - Amna Batool
+  - Umair Ali
+  - Samia Razaq
+  - Mustafa Naseem
+  publisher: Proceedings of the Eighth International Conference on Information and
+    Communication Technologies and Development
+  date: '2016-06-03'
+  link: https://doi.org/gtn955
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3001913.3006646
+  title: Design Methods to Reduce Technology Fear and Solicit Feedback from Lady Health
+    Workers (LHWs) in Pakistan
+  authors:
+  - Amna Batool
+  - Ayesha Asghar
+  - Tayeba Tariq
+  - Mohsin Badar
+  - Iqra Shahzad
+  - Umair Anwar
+  - Mustafa Naseem
+  publisher: Proceedings of the 7th Annual Symposium on Computing for Development
+  date: '2016-11-18'
+  link: https://doi.org/gtn956
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3001913.3001925
+  title: Iterative Design of an Immunization Information System in Pakistan
+  authors:
+  - Samia Razaq
+  - Amna Batool
+  - Umair Ali
+  - Muhammad Salman Khalid
+  - Umar Saif
+  - Mustafa Naseem
+  publisher: Proceedings of the 7th Annual Symposium on Computing for Development
+  date: '2016-11-18'
+  link: https://doi.org/gtn957
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/2938559.2948864
+  title: POSTER
+  authors:
+  - Rashid Mahmood
+  - Mustafa Naseem
+  - Yasira Waqar
+  publisher: Proceedings of the 14th Annual International Conference on Mobile Systems,
+    Applications, and Services Companion
+  date: '2016-06-25'
+  link: https://doi.org/gtn958
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/2702613.2732756
+  title: Understanding the Needs of Pakistani Farmers and the Prospects of an ICT
+    Intervention
+  authors:
+  - Omar Mubin
+  - Joshua Tubb
+  - Mauricio Novoa
+  - Mustafa Naseem
+  - Samia Razaq
+  publisher: Proceedings of the 33rd Annual ACM Conference Extended Abstracts on Human
+    Factors in Computing Systems
+  date: '2015-04-18'
+  link: https://doi.org/gtn959
   plugin: sources.py
   file: sources.yaml
