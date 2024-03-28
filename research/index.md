@@ -13,8 +13,7 @@ Our publications represent the culmination of rigorous scientific inquiry, innov
 
 ## Highlighted
 
-{% include citation.html lookup="Designing Digital Safe Spaces for Peer Support and Connectivity in Patriarchal
-    Contexts" style="rich" %}
+{% include citation.html lookup="doi:10.1145/3415217" style="rich" %}
 
 {% include section.html %}
 
