@@ -1,7 +1,7 @@
 ---
 name: Mahwish Abdul Aleem
 image: images/photo.jpg
-role: researcher
+role: undergrad
 group: current
 links:
   email: sarah.johnson@gmail.com
