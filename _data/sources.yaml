@@ -1,23 +1,18 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
-
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.48550/arXiv.2301.11733
+- id: doi:10.1145/3485447.3512267
+- id: doi:10.1145/3555204
+- id: doi:10.1145/3530190.3534819
+- id: doi:10.1145/3313831.3376683
+- id: doi:10.1145/3392561.3394647
+- id: doi:10.1145/3415217
+- id: doi:10.1145/3392561.3397588
+- id: doi:10.1145/3392561.3394639
+- id: doi:10.1145/3372224.3418170
+- id: doi:10.1145/3287098.3287143
+- id: doi:10.1145/3197391.3205446
+- id: doi:10.1145/3132525.3134809
+- id: doi:10.1145/2909609.2909634
+- id: doi:10.1145/3001913.3006646
+- id: doi:10.1145/3001913.3001925
+- id: doi:10.1145/2938559.2948864
+- id: doi:10.1145/2702613.2732756
