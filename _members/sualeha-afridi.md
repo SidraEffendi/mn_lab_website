@@ -1,10 +1,11 @@
 ---
 name: Sualeha Afridi
 image: images/photo.jpg
-role: programmer
+role: researcher
 group: current
 links:
-  github: https://github.com/tahazakir
+  email: sarah.johnson@gmail.com
+  twitter: sarahjohnson
 ---
 
-yada yada
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
