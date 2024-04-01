@@ -1,6 +1,7 @@
 ---
 name: Mahwish Abdul Aleem
 image: images/photo.jpg
+description: Research Associate
 role: undergrad
 group: current
 links:
