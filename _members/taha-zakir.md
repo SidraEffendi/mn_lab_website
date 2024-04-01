@@ -1,7 +1,8 @@
 ---
 name: Md. Taha Zakir
 image: images/taha-zakir.jpeg
-role: programmer
+description: Research Associate
+role: undergrad
 group: current
 links:
   home-page: https://tahazakir.notion.site/Hi-it-s-Taha-Zakir-2f2f5f5088f04d75804584248370d731?pvs=4
