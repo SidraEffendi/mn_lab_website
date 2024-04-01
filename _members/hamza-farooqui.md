@@ -1,8 +1,8 @@
 ---
 name: Hamza Farooqui
 image: images/photo.jpg
-description: Research Assistant
-role: researcher
+description: Senior Research Assistant
+role: programmer
 group: current
 links:
   email: sarah.johnson@gmail.com
