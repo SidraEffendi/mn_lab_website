@@ -14,15 +14,15 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="mnaseem@umich.edu"
+  text="mnaseem [at] umich.edu"
   link="mnaseem@umich.edu"
 %}
-{%
+<!---{%
   include button.html
   type="phone"
   text="(734)615-7505"
   link="+1-734-615-7505"
-%}
+%} --->
 {%
   include button.html
   type="address"
