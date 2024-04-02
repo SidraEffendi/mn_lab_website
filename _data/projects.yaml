@@ -2,6 +2,7 @@
   subtitle: a subtitle
   group: featured
   image: images/photo.jpg
+  link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 - title: Community Digital Literacy Scale
@@ -10,9 +11,7 @@
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  
 - title: Empathy Project
   subtitle: a subtitle
   group: featured
@@ -35,9 +34,7 @@
     \ our research aims to explore: Does incorporating patient expectations into the measurement of\
     \ clinician empathy in healthcare enhance its accuracy and ensure it more accurately reflects the nuanced \
     \ dynamics of patient-clinician interactions across various cultural settings?"
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+ 
 
 - title: Cool Dataset
   subtitle: a subtitle
