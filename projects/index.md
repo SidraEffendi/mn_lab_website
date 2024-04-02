@@ -9,7 +9,7 @@ nav:
 
 At the heart of our research philosophy lies a passion for humanitarianism, a dedication to integrity, and a belief in the power of collaboration. We actively foster an inclusive and supportive environment that nurtures creativity, critical thinking, and scientific excellence. 
 
-{% include tags.html tags="publication, resource, website" %}
+<!---{% include tags.html tags="publication, resource, website" %} --->
 
 {% include search-info.html %}
 
