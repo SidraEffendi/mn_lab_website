@@ -25,7 +25,8 @@
 
 .card-image img {
   aspect-ratio: 3 / 2;
-  object-fit: cover;
+  // object-fit: cover;
+  object-fit: contain;
   width: 100%;
   // box-shadow: var(--shadow);
 }
@@ -33,7 +34,8 @@
 .card-text {
   display: inline-flex;
   justify-content: flex-start;
-  align-items: center;
+  // align-items: center;
+  align-items: left;
   flex-direction: column;
   gap: 20px;
   max-width: 100%;
